@@ -17,11 +17,11 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 ## Summary
 The analysis of the elction show that: 
 
---There were "x" votes cast in the election. 
+* There were "x" votes cast in the election. 
 
---The candidates were:
+* The candidates were:
 
-  -Candidate 1
+  * Candidate 1
   -Candidate 2
   -Candidate 3
 -The candidate results were:
