@@ -39,7 +39,7 @@ The analysis of the elction show that (see *figure 1a-b*:
 
 *Figure 1b*- Command line printout
 
-![VBA_Challenge_2017](https://github.com/maureengamache/Stock-Analysis/blob/main/VBA_Challenge_2017.png)
+![Command_line_results](https://github.com/maureengamache/Election_Analysis/blob/main/Command_line_results.png)
 
 ## Election-Audit Summary and Proposal: 
 
