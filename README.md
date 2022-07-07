@@ -33,8 +33,14 @@ The analysis of the elction show that (see *figure 1a-b*:
 * The winner of the election was:
   * Diana DeGette, who received 73.8% of the vote and 272,892 number of votes. 
 
+*Figure 1a*- Write to text file
+
 ![VBA_Challenge_2017](https://github.com/maureengamache/Stock-Analysis/blob/main/VBA_Challenge_2017.png)
+
+*Figure 1b*- Command line printout
+
 ![VBA_Challenge_2017](https://github.com/maureengamache/Stock-Analysis/blob/main/VBA_Challenge_2017.png)
+
 ## Election-Audit Summary and Proposal: 
 
 In summary, the use Visual Studio Code and Python in analyzing the .csv raw data of the election votes was successful in determining the candidates, number of votes and vote percentage for each candidate respectively. Given that the written code works as written, it would be beneficial to the Colorado Board of Elections to purchase this code. However, there are a few modifications that could be made to make the more useful on a larger scale. The code could be refactored to make this script, with some modifications, useable for any election.
