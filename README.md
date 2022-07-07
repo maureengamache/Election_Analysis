@@ -14,8 +14,8 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 * Software: Python 3.10.6, Visual Studio Code
 
-## Summary
-The analysis of the elction show that: 
+## Analysis Summary
+The analysis of the elction show that (see *figure 1*: 
 
 * There were 369,711 votes cast in the election. 
 
@@ -33,7 +33,7 @@ The analysis of the elction show that:
 * The winner of the election was:
   * Diana DeGette, who received 73.8% of the vote and 272,892 number of votes. 
 
-## Challenge Overview
+## Election-Audit Summary and Proposal: 
 
-## Challenge Summary
-Python
+In summary, the use Visual Studio Code and Python in analyzing the .csv raw data of the election votes was successful in determining the candidates, number of votes and vote percentage for each candidate respectively. Given that the written code works as written, it would be beneficial to the Colorado Board of Elections to purchase this code. However, there are a few modifications that could be made to make the more useful on a larger scale. The code could be refactored to make this script, with some modifications, useable for any election.
+
