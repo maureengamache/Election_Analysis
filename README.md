@@ -35,7 +35,7 @@ The analysis of the elction show that (see *figure 1a-b*:
 
 *Figure 1a*- Write to text file
 
-![VBA_Challenge_2017](https://github.com/maureengamache/Stock-Analysis/blob/main/VBA_Challenge_2017.png)
+![election_results_txt](https://github.com/maureengamache/Election_Analysis/blob/main/election_results_txt.png)
 
 *Figure 1b*- Command line printout
 
