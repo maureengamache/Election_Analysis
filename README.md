@@ -43,5 +43,7 @@ The analysis of the elction show that (see *figure 1a-b*:
 
 ## Election-Audit Summary and Proposal: 
 
-In summary, the use Visual Studio Code and Python in analyzing the .csv raw data of the election votes was successful in determining the candidates, number of votes and vote percentage for each candidate respectively. Given that the written code works as written, it would be beneficial to the Colorado Board of Elections to purchase this code. However, there are a few modifications that could be made to make the more useful on a larger scale. The code could be refactored to make this script, with some modifications, useable for any election.
+In summary, the use Visual Studio Code and Python in analyzing the .csv raw data of the election votes was successful in determining the candidates, number of votes and vote percentage for each candidate respectively. Given that the written code works as written, it would be beneficial to the Colorado Board of Elections to purchase this code. However, there are a few modifications that could be made to make the more useful on a larger scale. The code could be refactored to make this script, with some modifications, useable for any election. This would be completed by using a macro in VBA that would tailor the results to the need, based on either, county or candidate through use of an InputBoax and button.
+
+
 
