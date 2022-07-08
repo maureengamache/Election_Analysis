@@ -8,7 +8,9 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 3. Calculate the total number of votes each candidate received. 
 4. Calculate the percentage of votes each candidate won. 
 5. Determine the winner of the election based on popular vote.
-6. Calculate and determine the county with the largest turnout of voters. 
+6. Calculate the total number of votes each county received. 
+7. Calculate the percentage of votes each county won.
+8. Determine the county with the largest turnout of voters.
 
 ## Resources
 * Data Source: election_results.csv
@@ -27,12 +29,30 @@ The analysis of the elction show that (see *figure 1a-b*:
   * Raymon Anthony Doane
   
 * The candidate results were:
+
   * Charles Casper Stockham received 23.0% of the vote and 85,123 number of votes. 
   * Diana DeGette received 73.8% of the vote and 272,892 number of votes.
   * Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 
 * The winner of the election was:
+
   * Diana DeGette, who received 73.8% of the vote and 272,892 number of votes. 
+
+* The counties polled were:
+
+  * Jefferson
+  * Denver
+  * Arapahoe
+
+* The county results were:
+
+  * Jefferson received 10.5% of the vote and 38,855 number of votes. 
+  * Denver received 82.8% of the vote and 306,055 number of votes.
+  * Arapahoe received 6.7% of the vote and 24,801 number of votes.
+
+* The county with the largest voter turnout was:
+  
+  * Denver 
 
 *Figure 1a*- Write to text file
 
